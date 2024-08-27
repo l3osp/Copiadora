@@ -43,7 +43,7 @@ Ou nenhum serviço extra.
 A função retorna o custo do serviço extra escolhido ou 0 se o usuário não desejar nenhum serviço adicional. Inclui tratamento de erros para garantir que o usuário insira uma opção válida.
 Funcionamento Geral do Programa.
 
-Escolha do Serviço:
+Escolha do Serviço.
 
 O programa chama escolha_servico() para obter o custo por página do serviço escolhido pelo usuário.
 
