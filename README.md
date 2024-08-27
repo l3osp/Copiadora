@@ -1,4 +1,4 @@
-Este programa é um sistema de pedidos para uma copiadora, onde o cliente pode escolher um serviço, o número de páginas e, opcionalmente, serviços extras. Aqui está uma descrição detalhada do que o programa faz:
+Este programa é um sistema de pedidos para uma copiadora, onde o cliente pode escolher um serviço, o número de páginas e, opcionalmente, serviços extras. Aqui está uma descrição passo a passo do que o programa faz.
 
 Funções do Programa.
 
